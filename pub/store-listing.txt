@@ -1,4 +1,4 @@
-Title: Orléans Express Bus (MonTransit)
+Title: Orléans Express Bus - MonTran…
 ----------
 Short description: Orléans Express bus information for MonTransit BETA.
 ----------
