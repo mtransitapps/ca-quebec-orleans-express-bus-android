@@ -1,16 +1,21 @@
 Title: Bus Orléans Express - MonTran…
 ----------
-Short description: Informations des bus Orléans Express pour MonTransit BETA.
+Short description:
+Bus Orléans Express pour MonTransit BETA
+Horaires. Tweets de @Orleans_Express
 ----------
 What's new in this version?:
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 Horaires du 18 Janvier 2015 au 31 Décembre 2015.
+Tweets de @Orleans_Express.
+
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 ----------
 Full description:
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 Cette application ajoute les informations des bus Orléans Express à MonTransit BETA.
+
+Cette application contient les horaires et les dernières nouvelles de @Orleans_Express sur Twitter.
+
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
 Orléans Express dessert Montréal, Québec, Rimousky, Gaspé, Grande-Rivière et Victoriaville.
 
@@ -26,3 +31,6 @@ Cette application est gratuite et open-source :
 https://github.com/mtransitapps/ca-quebec-orleans-express-bus-android
 
 Cette application n'est pas associée à Orléans Express et Keolis Canada.
+
+Autorisations :
+- Autres: requis pour lire les nouvelles (Twitter)

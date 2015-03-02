@@ -1,16 +1,21 @@
 Title: Orléans Express Bus - MonTran…
 ----------
-Short description: Orléans Express bus information for MonTransit BETA.
+Short description:
+Orléans Express bus for MonTransit BETA
+Schedules. Tweets from @Orleans_Express
 ----------
 What's new in this version?:
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
-
 Schedule from January 18, 2015 to December 31, 2015.
+Tweets from @Orleans_Express.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
-
 This application adds Orléans Express bus information to MonTransit BETA.
+
+This app contains the bus schedule and the latest news from @Orleans_Express on Twitter.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
 Orléans Express serves Montreal, Québec, Rimousky, Gaspé, Grande-Rivière and Victoriaville.
 
@@ -26,6 +31,9 @@ This application is free and open-source:
 https://github.com/mtransitapps/ca-quebec-orleans-express-bus-android
 
 This app is not related with Orléans Express and Keolis Canada.
+
+Permissions:
+- Other: required to read news (Twitter)
 ----------
 Application type: Applications
 ----------
