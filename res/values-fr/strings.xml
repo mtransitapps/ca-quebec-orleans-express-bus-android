@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MonTransit Orléans Express Bus</string>
-    <string name="app_desc">Données des bus Orléans Express pour MonTransit.</string>
+    <string name="app_desc">Données des autobus d\'Orléans Express pour MonTransit.</string>
 </resources>
