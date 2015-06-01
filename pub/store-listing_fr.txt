@@ -2,7 +2,7 @@ Title: Bus Orléans Express - MonTran…
 ----------
 Short description:
 Bus Orléans Express pour MonTransit.
-Horaires. News.
+Horaires. Nouvelles.
 ----------
 What's new in this version?:
 Horaires du 18 Janvier 2015 au 31 Décembre 2015.

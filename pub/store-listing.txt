@@ -2,7 +2,7 @@ Title: Orléans Express Bus - MonTran…
 ----------
 Short description:
 Orléans Express bus for MonTransit.
-Schedules. Tweets from @Orleans_Express
+Schedules. News.
 ----------
 What's new in this version?:
 Schedule from January 18, 2015 to December 31, 2015.
@@ -13,7 +13,7 @@ This application adds Orléans Express buses information to MonTransit.
 
 This app contains the buses schedule and the latest news from @Orleans_Express on Twitter.
 
-Orléans Express serves Montreal, Québec, Rimousky, Gaspé, Grande-Rivière and Victoriaville.
+Orléans Express serves Montreal, Québec, Rimousky, Gaspé, Grande-Rivière and Victoriaville in Quebec, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
