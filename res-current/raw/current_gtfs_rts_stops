@@ -1,13 +1,13 @@
 169,'VICT','Victoriaville',46.07168,-71.93447
 170,'DRM','Drummondville',45.890863,-72.513403
 171,'LONG','Longueuil',45.5247,-73.5227
-172,'MTL','Montréal',45.51667,-73.56389
+172,'MTL','Montréal (Centre Ville)',45.51667,-73.56389
 178,'STHY','St-Hyacinthe',45.62716,-72.94647
 191,'BERT','Berthierville',46.08881,-73.1966
 197,'LAVA','Laval',45.5603,-73.6817
 198,'LOUI','Louiseville',46.2561,-72.93557
 203,'QUE','Québec (Centre-Ville)',46.8192,-71.2129
-204,'REPE','Repentigny',45.74904,-73.46465
+204,'REPE','Repentigny',45.7474945,-73.4630286
 207,'STF','Québec (Ste-Foy)',46.7728,-71.3016
 208,'TRV','Trois-Rivières',46.3406,-72.5426
 224,'DORV','Montréal (Aéroport Trudeau)',45.45764,-73.7497
@@ -15,7 +15,7 @@
 227,'MTJ','Mont-Joli',48.58573,-68.19626
 231,'AMQ','Amqui',48.46736,-67.43699
 238,'CAR','Carleton',48.104401,-66.126992
-239,'NRICH','New-Richmond',48.174393,-65.847173
+239,'NRICH','New Richmond',48.174393,-65.847173
 244,'PAS','Paspébiac',48.024199,-65.274127
 246,'CHA','Chandler',48.344993,-64.702804
 247,'GRIV','Grande-Rivière',48.398212,-64.50477
