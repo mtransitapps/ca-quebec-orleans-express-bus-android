@@ -5,7 +5,7 @@ Orléans Express bus for MonTransit.
 Schedules. News.
 ----------
 What's new in this version?:
-Schedule from January 17, 2019 to March 4, 2019.
+Schedule from February 14, 2019 to April 1, 2019.
 Tweets from @Orleans_Express.
 ----------
 Full description:
