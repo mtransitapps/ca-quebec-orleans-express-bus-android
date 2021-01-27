@@ -1,5 +1,5 @@
-172,'MTL','Montréal (Centre-Ville)',45.51667,-73.56389
-203,'QUE','Québec (Centre-Ville)',46.8192,-71.2129
+172,'MTL','Montréal (Ctr-Ville)',45.51667,-73.56389
+203,'QUE','Québec (Ctr-Ville)',46.8192,-71.2129
 207,'STF','Québec (Ste-Foy)',46.7728,-71.3016
 208,'TRV','Trois-Rivières',46.3406,-72.5426
 225,'RMK','Rimouski',48.4647,-68.5125
@@ -10,16 +10,16 @@
 242,'BON','Bonaventure',48.0434061,-65.4909789
 244,'PAS','Paspébiac',48.024199,-65.274127
 246,'CHA','Chandler',48.344993,-64.702804
-247,'GRIV','Grande-Rivière',48.398212,-64.50477
+247,'GRIV','Grande-Riv',48.398212,-64.50477
 249,'GAS','Gaspé',48.831677,-64.483606
-263,'RDL','Rivière-Du-Loup',47.8193,-69.561
+263,'RDL','Riv-Du-Loup',47.8193,-69.561
 272,'MAT','Matane',48.85234,-67.512723
 277,'CAPC','Cap-Chat',49.09869,-66.676
 278,'S-A','Ste-Anne-Des-Monts',49.12452,-66.49134
 281,'M-L','Mont-Louis',49.2329316,-65.7415391
 284,'GVAL','Grande-Vallée',49.22505,-65.12824
-289,'RENA','Rivière-Au-Renard',49.00323,-64.39318
+289,'RENA','Riv-Au-Renard',49.00323,-64.39318
 316,'MATAP','Matapédia',47.973306,-66.9515
-317,'PTE','Pointe-À-La-Croix',48.017815,-66.68905
+317,'PTE','Pte-À-La-Croix',48.017815,-66.68905
 323,'DAN','Port-Daniel',48.142468,-64.98728
 325,'PER','Percé',48.522769,-64.213483
