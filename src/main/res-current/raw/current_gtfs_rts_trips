@@ -1,14 +1,7 @@
-1019,0,'Montréal',1
-1029,0,'Québec',1
-2019,0,'Aéroport Trudeau',2
-2029,0,'Montréal',2
-3019,0,'Québec',3
-3029,0,'Rimouski',3
-4019,0,'Gaspé',4
-4029,0,'Rimouski',4
-5019,0,'Gaspé',5
-5029,0,'Rimouski',5
-6019,0,'Montréal',6
-6029,0,'Québec',6
-53019,0,'Gatineau (Promenades Gatineau)',53
-53029,0,'Montréal',53
+109,0,'Montréal',1
+209,0,'Aéroport Trudeau',2
+309,0,'Québec',3
+409,0,'Rimouski',4
+509,0,'Rimouski',5
+609,0,'Québec',6
+5309,0,'Montréal',53
