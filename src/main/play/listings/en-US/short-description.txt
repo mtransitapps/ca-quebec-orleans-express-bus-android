@@ -1,2 +1,1 @@
-Orléans Express bus for MonTransit.
-Schedules. News.
+Orléans Express bus for MonTransit. Schedules. News.
