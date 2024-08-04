@@ -35,10 +35,10 @@ jobs:
         if: github.event_name != 'pull_request'
         run: |
           echo "MT_GIT_BRANCH=${GITHUB_REF##*/}" >> $GITHUB_ENV
-      # - name: MT code sync
-      #   # if: github.event_name != 'pull_request'
-      #   if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
-      #   run: ./commons/code_sync.sh
+      - name: MT code sync
+        # if: github.event_name != 'pull_request'
+        if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
+        run: ./commons/code_sync.sh
       - name: MT code setup
         run: ./commons/code_setup.sh
       # - name: MT set up JDK 17
@@ -89,8 +89,8 @@ jobs:
       #     path: |
       #       */build/reports/
       #       !**/*.xml
-      # - name: MT commit code change
-      #   run: ./commit_code_change.sh
+      - name: MT commit code change
+        run: ./commit_code_change.sh
       - name: MT download data
         timeout-minutes: 10
         run: ./agency-parser/download.sh
