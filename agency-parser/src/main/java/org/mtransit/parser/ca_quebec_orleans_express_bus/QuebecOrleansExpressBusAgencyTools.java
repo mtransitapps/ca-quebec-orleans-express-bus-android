@@ -166,6 +166,11 @@ public class QuebecOrleansExpressBusAgencyTools extends DefaultAgencyTools {
 		return CleanUtils.cleanLabelFR(tripHeadsign);
 	}
 
+	@Override
+	public @NotNull String cleanStopHeadSign(@NotNull String stopHeadsign) {
+		return EMPTY; // stop head-signs are stop names
+	}
+
 	@NotNull
 	@Override
 	public String cleanStopName(@NotNull String gStopName) {
