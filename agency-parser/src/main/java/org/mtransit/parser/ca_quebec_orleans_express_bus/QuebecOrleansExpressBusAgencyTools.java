@@ -32,11 +32,6 @@ public class QuebecOrleansExpressBusAgencyTools extends DefaultAgencyTools {
 		return "Orleans Express";
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public Integer getAgencyRouteType() {
@@ -70,7 +65,7 @@ public class QuebecOrleansExpressBusAgencyTools extends DefaultAgencyTools {
 	@NotNull
 	@Override
 	public String provideMissingRouteShortName(@NotNull GRoute gRoute) {
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		switch (gRoute.getRouteId()) {
 		case "1": // Montréal - Quebec (Express)
 			return "MT QC S";
@@ -109,7 +104,7 @@ public class QuebecOrleansExpressBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public String provideMissingRouteColor(@NotNull GRoute gRoute) {
 		// https://www.orleansexpress.com/fr/carte-du-reseau/
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		switch (gRoute.getRouteId()) {
 		case "1": // Montréal - Quebec (Express)
 			return "1E51A4";
