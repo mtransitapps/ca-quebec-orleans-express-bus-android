@@ -1,7 +1,7 @@
-1,'1','Montréal - Québec (Express)','1E51A4',49,3
-2,'2','Service Aéroport Trudeau','4E76BA',50,3
-3,'3','Bas-St-Laurent','F04E5E',51,3
-4,'4','Gaspésie (Côté Sud De La Péninsule)','3BA9BF',52,3
-5,'5','Gaspésie (Côté Nord De La Péninsule)','69BD45',53,3
-6,'6','Montréal - Québec (Mauricie)','F89843',54,3
-53,'53','Montréal - Ottawa','8224E3',1694,3
+1,'MT QC S','Montréal - Québec (Express)','1E51A4',49,3
+2,'MT YUL','Service Aéroport Trudeau','4E76BA',50,3
+3,'QC RK','Bas-St-Laurent','F04E5E',51,3
+4,'RK GS S','Gaspésie (Côté Sud De La Péninsule)','3BA9BF',52,3
+5,'RK GS N','Gaspésie (Côté Nord De La Péninsule)','69BD45',53,3
+6,'MT QC N','Montréal - Québec (Mauricie)','F89843',54,3
+53,'MT OT','Montréal - Ottawa','8224E3',1694,3
