@@ -83,6 +83,12 @@ public class QuebecOrleansExpressBusAgencyTools extends DefaultAgencyTools {
 			return "MT VT";
 		case "53": // Montréal - Ottawa
 			return "MT OT";
+		case "54": // Navette Tremblant
+			return "Tremblant";
+		case "58": // Ottawa - Toronto
+			return "OT TO";
+		case "59": // YYZ/Vaughan - Ottawa
+			return "YYZ OT";
 		}
 		return super.provideMissingRouteShortName(gRoute);
 	}
