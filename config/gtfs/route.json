@@ -1,0 +1,162 @@
+{
+  "default_route_id_enabled": "true",
+  "use_route_short_name_for_route_id": "false",
+  "use_route_short_name_for_route_id_comment": "no route short name provided",
+  "default_route_long_name_enabled": "true",
+  "route_id_to_route_short_name_configs": [
+    {
+      "route_id": "1",
+      "route_comment": "Montréal - Quebec (Express)",
+      "route_short_name": "MT QC S"
+    },
+    {
+      "route_id": "2",
+      "route_comment": "Service aéroport Trudeau",
+      "route_short_name": "MT YUL"
+    },
+    {
+      "route_id": "3",
+      "route_comment": "Bas-Saint-Laurent",
+      "route_short_name": "QC RK"
+    },
+    {
+      "route_id": "4",
+      "route_comment": "Gaspésie (Sud)",
+      "route_short_name": "RK GS S"
+    },
+    {
+      "route_id": "5",
+      "route_comment": "Gaspésie (Nord)",
+      "route_short_name": "RK GS N"
+    },
+    {
+      "route_id": "6",
+      "route_comment": "Montréal - Québec (Mauricie)",
+      "route_short_name": "MT QC N"
+    },
+    {
+      "route_id": "7",
+      "route_comment": "Centre-du-Québec",
+      "route_short_name": "MT VT"
+    },
+    {
+      "route_id": "53",
+      "route_comment": "Montréal - Ottawa",
+      "route_short_name": "MT OT"
+    },
+    {
+      "route_id": "54",
+      "route_comment": "Navette Tremblant",
+      "route_short_name": "Tremblant"
+    },
+    {
+      "route_id": "58",
+      "route_comment": "Ottawa - Toronto",
+      "route_short_name": "OT TO"
+    },
+    {
+      "route_id": "59",
+      "route_comment": "YYZ/Vaughan - Ottawa",
+      "route_short_name": "YYZ OT"
+    }
+  ],
+  "route_colors_comment": "https://orleansexpress.com/fr/carte-du-reseau/",
+  "route_colors": [
+    {
+      "route_id": "1",
+      "route_comment": "Montréal - Quebec (Express)",
+      "route_short_name": "MT QC S",
+      "color": "1E51A4"
+    },
+    {
+      "route_id": "2",
+      "route_comment": "Service aéroport Trudeau",
+      "route_short_name": "MT YUL",
+      "color": "4E76BA"
+    },
+    {
+      "route_id": "3",
+      "route_comment": "Bas-Saint-Laurent",
+      "route_short_name": "QC RK",
+      "color": "F04E5E"
+    },
+    {
+      "route_id": "4",
+      "route_comment": "Gaspésie (Sud)",
+      "route_short_name": "RK GS S",
+      "color": "3BA9BF"
+    },
+    {
+      "route_id": "5",
+      "route_comment": "Gaspésie (Nord)",
+      "route_short_name": "RK GS N",
+      "color": "69BD45"
+    },
+    {
+      "route_id": "6",
+      "route_comment": "Montréal - Québec (Mauricie)",
+      "route_short_name": "MT QC N",
+      "color": "F89843"
+    },
+    {
+      "route_id": "7",
+      "route_comment": "Centre-du-Québec",
+      "route_short_name": "MT VT",
+      "color": "DB32Bf"
+    },
+    {
+      "route_id": "53",
+      "route_comment": "Montréal - Ottawa",
+      "route_short_name": "MT OT",
+      "color": "8224E3"
+    },
+    {
+      "route_id": "54",
+      "route_comment": "Navette Tremblant",
+      "route_short_name": "Tremblant",
+      "color": "FF0000"
+    },
+    {
+      "route_id": "58",
+      "route_comment": "Ottawa - Toronto",
+      "route_short_name": "OT TO",
+      "color": "B21CB2"
+    },
+    {
+      "route_id": "59",
+      "route_comment": "YYZ/Vaughan - Ottawa",
+      "route_short_name": "YYZ OT",
+      "color": "99932F"
+    }
+  ],
+  "direction_splitter_enabled": "true",
+  "direction_finder_enabled": "true",
+  "trip_headsign_cleaners": [
+    {
+      "regex": "((^|\\W)(centre ville)(\\W|$))",
+      "ignore_case": "true",
+      "replacement": "$2Centre-Ville$4"
+    },
+    {
+      "regex": "(( \\(centre-ville\\))(\\W|$))",
+      "ignore_case": "true"
+    },
+    {
+      "regex": "((^|\\W)(qu[é|e]bec \\(université laval\\))(\\W|$))",
+      "ignore_case": "true",
+      "replacement": "$2Université Laval$4"
+    },
+    {
+      "regex": "((^|\\W)(montr[é|e]al \\(a[é|e]roport trudeau\\))(\\W|$))",
+      "ignore_case": "true",
+      "replacement": "$2Aéroport Trudeau$4"
+    },
+    {
+      "regex": "(union station bus terminal)",
+      "ignore_case": "true",
+      "replacement": "Union Ston Bus Term"
+    }
+  ],
+  "stop_headsign_cleanup_regex": ".*",
+  "stop_headsign_cleanup_regex_comment": "stop head-signs are stop names"
+}
