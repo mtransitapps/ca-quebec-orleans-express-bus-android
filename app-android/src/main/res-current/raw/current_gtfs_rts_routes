@@ -1,10 +1,10 @@
 1,'MT QC S','Montréal - Québec (Express)','1E51A4',49,3
 2,'MT YUL','Service Aéroport Trudeau','4E76BA',50,3
-3,'QC RK','Bas-St-Laurent','F04E5E',51,3
+3,'QC RK','Bas-Saint-Laurent','F04E5E',51,3
 4,'RK GS S','Gaspésie (Côté Sud De La Péninsule)','3BA9BF',52,3
 5,'RK GS N','Gaspésie (Côté Nord De La Péninsule)','69BD45',53,3
 6,'MT QC N','Montréal - Québec (Mauricie)','F89843',54,3
 53,'MT OT','Montréal - Ottawa','8224E3',1694,3
-54,'Tremblant','Navette Tremblant','',1695,3
-58,'OT TO','Ottawa - Toronto','',1699,3
-59,'YYZ OT','YYZ/Vaughan - Ottawa','',1700,3
+54,'Tremblant','Navette Tremblant','FF0000',1695,3
+58,'OT TO','Ottawa - Toronto','B21CB2',1699,3
+59,'YYZ OT','YYZ / Vaughan - Ottawa','99932F',1700,3
